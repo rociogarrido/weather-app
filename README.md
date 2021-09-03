@@ -1,4 +1,4 @@
-# Weather App
+# Weather App ⛅
 
 A simple weather app in React JS, using the Open Weather Map API to make calls to a restful api and return the current weather data. This uses the Modern Javascript Fetch API along with React hooks and conditionals.
 
@@ -8,7 +8,7 @@ A simple weather app in React JS, using the Open Weather Map API to make calls t
 
 ## Features
 
-- The application fetches data from the<a href="https://api.openweathermap.org/data/2.5/weather/"> openweathermap </a>.
+- The application fetches data from the<a href="https://api.openweathermap.org/data/2.5/weather/"> openweathermap</a>.
 - Dynamic background image according to weather condition for selected city.
 
 ## How to use it?
