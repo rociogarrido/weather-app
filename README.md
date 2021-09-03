@@ -6,7 +6,7 @@ A simple weather app in React JS, using the Open Weather Map API to make calls t
 
 🚀 My goal was to continue practicing React by building a Weather App.
 
-# Features
+## Features
 
 - The application fetches data from the<a href="https://api.openweathermap.org/data/2.5/weather/"> openweathermap </a>.
 - Dynamic background image according to weather condition for selected city.
